@@ -1,0 +1,11 @@
+Build started at 2020-10-23T22:30:51.134078
+Main binary: /usr/bin/python
+Build Options: -Dbuildtype=debug -Dlayout=flat
+Python system: Linux
+The Meson build system
+Version: 0.55.3
+Source dir: /home/ahmed/Projects/Vala/Gtk4/gtk4_list_weather/resources
+Build dir: /home/ahmed/Projects/Vala/Gtk4/gtk4_list_weather/resources/builddir
+Build type: native build
+
+ERROR: First statement must be a call to project
