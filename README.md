@@ -1,46 +1,22 @@
-# Project Title
+# Gtk4 Weather List
 
 ## Table of Contents
 
 - [About](#about)
-- [Getting Started](#getting_started)
 - [Usage](#usage)
-- [Contributing](../CONTRIBUTING.md)
 
 ## About <a name = "about"></a>
 
-Write about 1-2 paragraphs describing the purpose of your project.
+Demo to show how to use GtkListView to display large volume data. Rsvg Library has been use to display svg paintables.
 
-## Getting Started <a name = "getting_started"></a>
-
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [deployment](#deployment) for notes on how to deploy the project on a live system.
-
-### Prerequisites
-
-What things you need to install the software and how to install them.
-
-```
-Give examples
-```
 
 ### Installing
 
-A step by step series of examples that tell you how to get a development env running.
-
-Say what the step will be
-
 ```
-Give the example
+vala 0.50.1
+gtk4 3.99.3
 ```
 
-And repeat
+## Screenshot <a name = "screenshot"></a>
 
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo.
-
-## Usage <a name = "usage"></a>
-
-Add notes about how to use the system.
+![Screenshot](https://github.com/aeldemery/gtk4_list_weather/blob/master/Screenshot1.png).
